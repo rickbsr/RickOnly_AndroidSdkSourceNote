@@ -1,0 +1,1 @@
+# RickOnly_AndroidSdkSourceNote
