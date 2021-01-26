@@ -1,2 +1,4 @@
 - SDK Version: 30
 - android.view.View#onTouchEvent()
+- android.view.View#dispatchTouchEvent()
+- android.view.ViewGroup#dispatchTouchEvent()
